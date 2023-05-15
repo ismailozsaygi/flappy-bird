@@ -15,7 +15,7 @@ int main( int argc, char* argv[] )
 				{
 					if ( event.key.keysym.sym == SDLK_SPACE )
 					{
-						std::cout << "Space     Bar pressed!" << std::endl;
+						std::cout << "Space Bar pressed!" << std::endl;
 					}
 				}
 
